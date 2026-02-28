@@ -36,7 +36,7 @@ Click the **Send** button in the request pane to execute the request.
 The response will appear in the response pane below. 
 
 ## Usage and Testing
-**Organized Endpoints:** Requests are arranged by API operations. 
+**Organized Endpoints:** Requests are arranged by API operations.
 **Automated Testing:** Each request includes pre-built tests (see the "Tests" tab) to validate API behavior, response codes, headers, and data integrity.
 **Collection Runner:** You can run the entire collection in sequence using the **Collection Runner** to perform end-to-end test flows. 
 
