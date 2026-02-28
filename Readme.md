@@ -75,6 +75,6 @@ newman run "Petstore_User_Operations_Collection.postman_collection.json" -r html
 4. Reports will be available in the Jenkins workspace.
 
 ## ✅ Summary
-Use Newman CLI for quick command-line runs.
-Use Newman HTML Reporter for detailed, shareable reports.
-Integrate with Jenkins for automated test execution and reporting in CI/CD pipelines.
+1. Use Newman CLI for quick command-line runs.
+2. Use Newman HTML Reporter for detailed, shareable reports.
+3. Integrate with Jenkins for automated test execution and reporting in CI/CD pipelines.
